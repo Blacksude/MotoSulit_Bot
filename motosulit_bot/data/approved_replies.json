@@ -1,0 +1,8 @@
+{
+  "price_exact_match": "Hi! Ito po ang current MotoSulit price based sa uploaded price list as of {price_date}:\\n\\nBrand: {brand}\\nModel: {model}\\nCash: {cash}\\nDP: {dp}\\n12 months: {months_12}\\n18 months: {months_18}\\n24 months: {months_24}\\n30 months: {months_30}\\n36 months: {months_36}\\nIncome rebate: {income_rebate}\\nRequirements: {requirements}\\n\\nNote: Prices shown are only from our official uploaded list. For final availability, branch team will confirm po.",
+  "ask_exact_model": "Hi! Para accurate po at hindi kami magkamali ng price, pakiconfirm ang exact model. Possible match/matches: {matches}.\\n\\nExample format: Honda CLICK125 Standard.",
+  "multiple_matches": "Hi! May ilang possible matches po sa message ninyo: {matches}.\\n\\nPakisend po ang exact brand at model para maibigay namin ang tamang price.",
+  "no_match": "Pasensya po, hindi ko mahanap sa official price list ang exact motorcycle na tinutukoy. Pakisend po ang exact brand at model, halimbawa: Honda CLICK125 Standard.",
+  "human_handoff": "Salamat po sa message. Ipa-forward ko ito sa MotoSulit team para matulungan kayo ng staff. Hindi muna ako magbibigay ng pricing details para maiwasan ang maling info.",
+  "error_fallback": "Pasensya po, may system issue ngayon. Ipa-forward ko ito sa MotoSulit team para matulungan kayo."
+}
